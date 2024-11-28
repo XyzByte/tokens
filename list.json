@@ -1,0 +1,41 @@
+{
+  "name": "ZRC20 Token List",
+  "timestamp": "2024-11-19T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 00
+  },
+  "tags": {},
+  "logoURI": "https://token.z1swap.com/img/logo.png",
+  "keywords": [
+    "z1swap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped Zether",
+      "address": "0xF8598A646C4d6f4D5Fc9BE0673D2C2d4c2e18c91",
+      "symbol": "WZTH",
+      "decimals": 18,
+      "chainId": 715131,
+      "logoURI": "https://token.z1swap.com/img/0xF8598A646C4d6f4D5Fc9BE0673D2C2d4c2e18c91.png"
+    },
+    {
+      "name": "Zether USDT",
+      "address": "0x6284748667c71F81331427a69dB373B25CF949F8",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 715131,
+      "logoURI": "https://token.z1swap.com/img/0x6284748667c71F81331427a69dB373B25CF949F8.png"
+    },
+    {
+      "name": "Z1 Token",
+      "address": "0x6C5475899d8D59cCa054090106c14b21d0Ed92Ec",
+      "symbol": "Z1",
+      "decimals": 18,
+      "chainId": 715131,
+      "logoURI": "https://token.z1swap.com/img/0x6C5475899d8D59cCa054090106c14b21d0Ed92Ec.png"
+    }
+  ]
+}
